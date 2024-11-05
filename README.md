@@ -90,6 +90,6 @@ Improved Prompt
 "Explain the impact of artificial intelligence on modern healthcare, particularly in diagnostics and patient care."
 Explanation
 The improved prompt is more effective because it:
-Specifies the Topic: Narrows down to artificial intelligence and healthcare, providing a clear focus.
-Defines the Scope: Concentrates on diagnostics and patient care within healthcare, making it easier to provide a relevant and detailed response.
-Enhances Clarity: Removes ambiguity, ensuring the AI understands the exact information required.
+1 Specifies the Topic: Narrows down to artificial intelligence and healthcare, providing a clear focus.
+2 Defines the Scope: Concentrates on diagnostics and patient care within healthcare, making it easier to provide a relevant and detailed response.
+3 Enhances Clarity: Removes ambiguity, ensuring the AI understands the exact information required.
