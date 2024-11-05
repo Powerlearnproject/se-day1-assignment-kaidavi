@@ -85,6 +85,7 @@ Context Adaptation: Generates context-aware responses
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 vague Prompt
+
 "Tell me about technology."
 Improved Prompt
 "Explain the impact of artificial intelligence on modern healthcare, particularly in diagnostics and patient care."
